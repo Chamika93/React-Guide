@@ -45,6 +45,10 @@ So If we want to create a nested element we can pass the inner element to the ch
       ReactDOM.render(test, rrootElement);
  </script>
 ````
+This creates a simple `<div><p>Hello World</p></div>` element in the dom. Let's try to undersatand how this works and create a reusable component.
+
+**React.createElement** takes 2 inputs first input is the type of the element if it is a known DOM element like div,p or h1 it is passed as a string like "div","p" or "h1". Or type can be a function or a class. Second input is the element properties object and this is going to pass in to the function or class to create the element tree.
+
 
 
 #### References
