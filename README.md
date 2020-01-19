@@ -99,3 +99,4 @@ https://egghead.io/lessons/react-create-html-elements-with-react-s-createelement
 https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html
 https://www.taniarascia.com/getting-started-with-react/
 https://www.academind.com/learn/react/redux-vs-context-api/
+https://daveceddia.com/what-is-a-thunk/
